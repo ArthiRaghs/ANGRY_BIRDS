@@ -5,7 +5,9 @@ var engine,world;
 var box1,box2,ground;
 var pig1,log1;
 var pig3,log3,box3,box4;
-var bird,platform;
+var bird;
+// for slingshot
+var platform;
 
 
 function setup() {
